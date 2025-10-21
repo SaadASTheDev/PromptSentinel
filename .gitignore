@@ -1,6 +1,6 @@
-# If you prefer the allow list template instead of the deny list, see community template:
-# https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
-#
+# Student project gitignore - CISC 4900 Final Project
+# Basic Go project with some extra stuff I don't want to commit
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -30,3 +30,43 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# My personal notes and drafts
+notes.txt
+draft_*
+todo.txt
+ideas.md
+scratch.*
+
+# Temporary files I created while testing
+temp_*
+test_*
+debug_*
+
+# Build artifacts
+build/
+dist/
+*.tar.gz
+*.zip
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+logs/
+
+# Configuration files with sensitive data
+config.local.json
+secrets.json
