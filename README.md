@@ -1,9 +1,9 @@
 # PromptSentinel - Basic Prompt Checker
 
 **Course**: CISC 4900 - Software Engineering  
-**Student**: [Your Name]  
-**Instructor**: [Professor Name]  
-**Semester**: Fall 2024  
+**Student**: Saad  
+**Instructor**: Katherine Chuang
+**Semester**: Fall 2025 
 **Project Type**: Final Project  
 
 ## Project Overview
